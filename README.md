@@ -1,0 +1,2 @@
+# Ecomm-Django
+Collage Project
